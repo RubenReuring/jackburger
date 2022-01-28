@@ -1,5 +1,5 @@
 (function($) {
-// Hello World
+// Hello World 2
   $.fn.niceSelect = function(method) {
     
     // Methods
